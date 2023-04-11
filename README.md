@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Rafael Fujii
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfujii677&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https:github.com/rafaelfujii677"></a>
