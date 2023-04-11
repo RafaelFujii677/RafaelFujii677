@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https:github.com/rafaelfujii677"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfujii677&show_icons=true&theme=radical&include_all_commits=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfujii677&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfujii677&layout=compact&theme=radical" />
   <br></br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
